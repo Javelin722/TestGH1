@@ -5,10 +5,13 @@ Test Commit in new branch
 Edit File in New branch
 - Commit again.
 
-Probably Deleting This Line
-who knows tho...
 
 This is edited by Branch Test A
 Commit by Branch Test A
-
 Another Commit by Branch Test A
+
+=======
+
+This New Line, Written by Test Branch B
+Also Deleting few unused line on top
+
